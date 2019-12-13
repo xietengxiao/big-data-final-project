@@ -1,0 +1,3129 @@
+{
+    "predicted_types": [
+        {
+            "column_name": "2bmr-jdsv.DBA",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 101033
+                }
+            ]
+        },
+        {
+            "column_name": "2bnn-yakx.Vehicle_Body_Type",
+            "semantic_types": [
+                {
+                    "semantic_type": "vehicle_type",
+                    "count": 10169918
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 633110
+                }
+            ]
+        },
+        {
+            "column_name": "2bnn-yakx.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 10803028
+                }
+            ]
+        },
+        {
+            "column_name": "2bnn-yakx.Vehicle_Make",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 8817872
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1985156
+                }
+            ]
+        },
+        {
+            "column_name": "2sps-j9st.PERSON_FIRST_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 48166
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 3737
+                }
+            ]
+        },
+        {
+            "column_name": "2sps-j9st.PERSON_LAST_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 33319
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 18584
+                }
+            ]
+        },
+        {
+            "column_name": "2v9c-2k7f.DBA",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 26499
+                }
+            ]
+        },
+        {
+            "column_name": "2xh6-psuq.Project_School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 10796
+                }
+            ]
+        },
+        {
+            "column_name": "3aka-ggej.BOROUGH",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 2363
+                }
+            ]
+        },
+        {
+            "column_name": "3aka-ggej.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 1327
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1036
+                }
+            ]
+        },
+        {
+            "column_name": "3btx-p4av.COMPARABLE_RENTAL___2__Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 2615
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 16
+                }
+            ]
+        },
+        {
+            "column_name": "3h2n-5cm9.STREET",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 1212208
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 871888
+                }
+            ]
+        },
+        {
+            "column_name": "3rfa-3xsf.Cross_Street_2",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 828361
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 954772
+                }
+            ]
+        },
+        {
+            "column_name": "3rfa-3xsf.Incident_Zip",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 1659818
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 123315
+                }
+            ]
+        },
+        {
+            "column_name": "3rfa-3xsf.Location",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 1651563
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 131570
+                }
+            ]
+        },
+        {
+            "column_name": "3rfa-3xsf.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1783133
+                }
+            ]
+        },
+        {
+            "column_name": "3rfa-3xsf.School_Phone_Number",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1783133
+                }
+            ]
+        },
+        {
+            "column_name": "3rfa-3xsf.Street_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 899160
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 883973
+                }
+            ]
+        },
+        {
+            "column_name": "43nn-pn8j.DBA",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 392131
+                }
+            ]
+        },
+        {
+            "column_name": "4fnu-iufz.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 23748
+                }
+            ]
+        },
+        {
+            "column_name": "4n2j-ut8i.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1677
+                }
+            ]
+        },
+        {
+            "column_name": "4pt5-3vv4.Location",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 767156
+                }
+            ]
+        },
+        {
+            "column_name": "4qii-5cz9.BOROUGH",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 2347
+                }
+            ]
+        },
+        {
+            "column_name": "4twk-9yq2.CrossStreet2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 76986
+                }
+            ]
+        },
+        {
+            "column_name": "52dp-yji6.Owner_First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 176580
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 29901
+                }
+            ]
+        },
+        {
+            "column_name": "52dp-yji6.Owner_Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 122461
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 84020
+                }
+            ]
+        },
+        {
+            "column_name": "5nz7-hh6t.BORO",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 550
+                }
+            ]
+        },
+        {
+            "column_name": "5nz7-hh6t.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 409
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 141
+                }
+            ]
+        },
+        {
+            "column_name": "5uac-w243.Lat_Lon",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 222376
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 22
+                }
+            ]
+        },
+        {
+            "column_name": "5uac-w243.PREM_TYP_DESC",
+            "semantic_types": [
+                {
+                    "semantic_type": "location_type",
+                    "count": 129169
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 93229
+                }
+            ]
+        },
+        {
+            "column_name": "62mr-ukqs.BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 960
+                }
+            ]
+        },
+        {
+            "column_name": "6anw-twe4.FirstName",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 9447
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 9347
+                }
+            ]
+        },
+        {
+            "column_name": "6anw-twe4.LastName",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 5944
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 12850
+                }
+            ]
+        },
+        {
+            "column_name": "6je4-4x7e.SCHOOL",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 804
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1013
+                }
+            ]
+        },
+        {
+            "column_name": "6je4-4x7e.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1817
+                }
+            ]
+        },
+        {
+            "column_name": "6kcb-9g8d.independentwebsite",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 204
+                },
+                {
+                    "semantic_type": "website",
+                    "count": 479
+                }
+            ]
+        },
+        {
+            "column_name": "6kcb-9g8d.neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 384
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 100
+                }
+            ]
+        },
+        {
+            "column_name": "6rrm-vxj9.parkname",
+            "semantic_types": [
+                {
+                    "semantic_type": "park_playground",
+                    "count": 954
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 924
+                }
+            ]
+        },
+        {
+            "column_name": "6wcu-cfa3.CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 18944
+                }
+            ]
+        },
+        {
+            "column_name": "6ypq-ih9a.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 7351
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5144
+                }
+            ]
+        },
+        {
+            "column_name": "72mk-a8z7.ORGANIZATION_PHONE",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 8982
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 309
+                }
+            ]
+        },
+        {
+            "column_name": "72ss-25qh.Agency_ID",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 599
+                }
+            ]
+        },
+        {
+            "column_name": "72ss-25qh.Borough",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 320
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 521
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 320
+                }
+            ]
+        },
+        {
+            "column_name": "72ss-25qh.Website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 249
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 350
+                }
+            ]
+        },
+        {
+            "column_name": "735p-zed8.CANDMI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 193741
+                }
+            ]
+        },
+        {
+            "column_name": "735p-zed8.EMPCITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 85211
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 92983
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 85211
+                }
+            ]
+        },
+        {
+            "column_name": "7btz-mnc8.Provider_First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 1551
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 480
+                }
+            ]
+        },
+        {
+            "column_name": "7btz-mnc8.Provider_Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 1199
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 832
+                }
+            ]
+        },
+        {
+            "column_name": "7jkp-5w5g.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 273
+                }
+            ]
+        },
+        {
+            "column_name": "7yds-6i8e.CORE_SUBJECT__MS_CORE_and_9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 504
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 154
+                }
+            ]
+        },
+        {
+            "column_name": "8gr8-ngjc.phone",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 2089
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2976
+                }
+            ]
+        },
+        {
+            "column_name": "8i43-kna8.CORE_SUBJECT",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 272
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 252
+                }
+            ]
+        },
+        {
+            "column_name": "8isn-pgv3.Owner_Telephone",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 1867
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2922
+                }
+            ]
+        },
+        {
+            "column_name": "8jfz-tjny.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1694
+                }
+            ]
+        },
+        {
+            "column_name": "8k4x-9mp5.Last_Name__only_2014_15_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 13216
+                }
+            ]
+        },
+        {
+            "column_name": "8vgb-zm6e.City__State__Zip_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 27312
+                }
+            ]
+        },
+        {
+            "column_name": "956m-xy24.COMPARABLE_RENTAL_1__Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 1025
+                }
+            ]
+        },
+        {
+            "column_name": "956m-xy24.MANHATTAN_CONDOMINIUM_PROPERTY_Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 849
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 176
+                }
+            ]
+        },
+        {
+            "column_name": "956m-xy24.MANHATTAN_CONDOMINIUM_PROPERTY_Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 320
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 705
+                }
+            ]
+        },
+        {
+            "column_name": "99br-frp6.BOROUGH___COMMUNITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 121
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 207
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 121
+                }
+            ]
+        },
+        {
+            "column_name": "9b9u-8989.DBA",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 5226
+                }
+            ]
+        },
+        {
+            "column_name": "9z9b-6hvk.Borough",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 83
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 90
+                },
+                {
+                    "semantic_type": "color",
+                    "count": 72
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 83
+                }
+            ]
+        },
+        {
+            "column_name": "a5qt-5jpu.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 23
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "column_name": "a5td-mswe.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 11721626
+                }
+            ]
+        },
+        {
+            "column_name": "a6zp-tcs3.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 2284
+                }
+            ]
+        },
+        {
+            "column_name": "a9md-ynri.MI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1438336
+                }
+            ]
+        },
+        {
+            "column_name": "ac4n-c5re.PRINCIPAL_PHONE_NUMBER",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 1814
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "column_name": "ad4c-mphb.MANHATTAN_CONDOMINIUM_PROPERTY_Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 897
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 171
+                }
+            ]
+        },
+        {
+            "column_name": "aiww-p3af.Cross_Street_2",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 820439
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1061968
+                }
+            ]
+        },
+        {
+            "column_name": "aiww-p3af.Incident_Zip",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 1745830
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 136577
+                }
+            ]
+        },
+        {
+            "column_name": "aiww-p3af.Intersection_Street_2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1882407
+                }
+            ]
+        },
+        {
+            "column_name": "aiww-p3af.Park_Facility_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1882407
+                }
+            ]
+        },
+        {
+            "column_name": "ajgi-hpq9.BORO",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 3056
+                }
+            ]
+        },
+        {
+            "column_name": "ajgi-hpq9.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 2244
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 812
+                }
+            ]
+        },
+        {
+            "column_name": "ajxm-kzmj.NeighborhoodName",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 267
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 270
+                }
+            ]
+        },
+        {
+            "column_name": "as69-ew8f.StartCity",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 53399
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 63735
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 53399
+                }
+            ]
+        },
+        {
+            "column_name": "as69-ew8f.TruckMake",
+            "semantic_types": [
+                {
+                    "semantic_type": "business_name",
+                    "count": 52390
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 67146
+                }
+            ]
+        },
+        {
+            "column_name": "b9km-gdpy.ZIP",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 191386
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 32472
+                }
+            ]
+        },
+        {
+            "column_name": "bawj-6bgn.BRONX_CONDOMINIUM_PROPERTY_Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 58
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "column_name": "bbs3-q5us.EMPCITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 74207
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 69852
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 74207
+                }
+            ]
+        },
+        {
+            "column_name": "bdjm-n7q4.CrossStreet2",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 251974
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 332088
+                }
+            ]
+        },
+        {
+            "column_name": "bdjm-n7q4.Location",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 584062
+                }
+            ]
+        },
+        {
+            "column_name": "bjuu-44hx.DVV_MAKE",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 329632
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 359134
+                }
+            ]
+        },
+        {
+            "column_name": "bs8b-p36w.STREET",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 68801
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 38528
+                }
+            ]
+        },
+        {
+            "column_name": "bss9-579f.BROOKLYN_____CONDOMINIUMS_COMPARABLE_PROPERTIES_____Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 394
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 323
+                }
+            ]
+        },
+        {
+            "column_name": "bty7-2jhb.Owner_s_House_City",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 1290386
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 1260041
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 1290386
+                }
+            ]
+        },
+        {
+            "column_name": "bty7-2jhb.Site_Safety_Mgr_s_Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 2428526
+                }
+            ]
+        },
+        {
+            "column_name": "by6m-6zpb.interest",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 744
+                }
+            ]
+        },
+        {
+            "column_name": "c284-tqph.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "color",
+                    "count": 4174219
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 7635014
+                }
+            ]
+        },
+        {
+            "column_name": "c284-tqph.Vehicle_Make",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 9594042
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2215191
+                }
+            ]
+        },
+        {
+            "column_name": "cgz5-877h.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1543
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 143
+                }
+            ]
+        },
+        {
+            "column_name": "ci93-uc8s.Address1",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 5264
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4108
+                }
+            ]
+        },
+        {
+            "column_name": "ci93-uc8s.Vendor_DBA",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 9372
+                }
+            ]
+        },
+        {
+            "column_name": "ci93-uc8s.Website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 6545
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2827
+                }
+            ]
+        },
+        {
+            "column_name": "cspg-yi7g.ADDRESS",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 374676
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 352204
+                }
+            ]
+        },
+        {
+            "column_name": "cvh6-nmyi.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1817
+                }
+            ]
+        },
+        {
+            "column_name": "cwg5-cqkm.QUEENS___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 975
+                }
+            ]
+        },
+        {
+            "column_name": "cwqt-nvfg.Boro",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 119
+                }
+            ]
+        },
+        {
+            "column_name": "cyfw-hfqk.STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 23
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "column_name": "cznr-hmrv.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 582
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 972
+                }
+            ]
+        },
+        {
+            "column_name": "d3ge-anaz.CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 25476
+                }
+            ]
+        },
+        {
+            "column_name": "diks-hcwd.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 666
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 952
+                }
+            ]
+        },
+        {
+            "column_name": "dj4e-3xrn.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 1352
+                },
+                {
+                    "semantic_type": "school_level",
+                    "count": 1138
+                }
+            ]
+        },
+        {
+            "column_name": "dm9a-ab7w.APPLICANT_FIRST_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 112181
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 9550
+                }
+            ]
+        },
+        {
+            "column_name": "dm9a-ab7w.AUTH_REP_FIRST_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 121731
+                }
+            ]
+        },
+        {
+            "column_name": "dm9a-ab7w.AUTH_REP_LAST_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 121731
+                }
+            ]
+        },
+        {
+            "column_name": "dm9a-ab7w.OWNER_ZIP",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 120987
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 744
+                }
+            ]
+        },
+        {
+            "column_name": "dm9a-ab7w.STREET_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 77156
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 44575
+                }
+            ]
+        },
+        {
+            "column_name": "dpm2-m9mq.applicant_zip",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 219300
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 52609
+                }
+            ]
+        },
+        {
+            "column_name": "e9xc-u3ds.CANDMI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 50502
+                }
+            ]
+        },
+        {
+            "column_name": "eamj-ryxu.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1777
+                }
+            ]
+        },
+        {
+            "column_name": "en2c-j6tw.BRONX_CONDOMINIUM_PROPERTY_Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 43
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "column_name": "en2c-j6tw.BRONX_CONDOMINIUM_PROPERTY_Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 34
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "column_name": "erm2-nwe9.Landmark",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 21567635
+                }
+            ]
+        },
+        {
+            "column_name": "erm2-nwe9.Park_Facility_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 21567635
+                }
+            ]
+        },
+        {
+            "column_name": "f7qh-bcr5.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 113
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 34
+                }
+            ]
+        },
+        {
+            "column_name": "faiq-9dfq.Vehicle_Body_Type",
+            "semantic_types": [
+                {
+                    "semantic_type": "vehicle_type",
+                    "count": 10887505
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 580001
+                }
+            ]
+        },
+        {
+            "column_name": "faiq-9dfq.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 11467506
+                }
+            ]
+        },
+        {
+            "column_name": "fbaw-uq4e.Location_1",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 10423
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4163
+                }
+            ]
+        },
+        {
+            "column_name": "feu5-w2e2.BusinessCity",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 348710
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 331081
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 348710
+                }
+            ]
+        },
+        {
+            "column_name": "feu5-w2e2.BusinessZip",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 547035
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 154319
+                }
+            ]
+        },
+        {
+            "column_name": "ffnc-f3aa.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1677
+                }
+            ]
+        },
+        {
+            "column_name": "fgq8-am2v.Website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 679
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 89
+                }
+            ]
+        },
+        {
+            "column_name": "fp78-wt5b.address",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 1490
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 311
+                }
+            ]
+        },
+        {
+            "column_name": "fp78-wt5b.phonenumber",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 1793
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "column_name": "fxs2-faah.PRINCIPAL_PHONE_NUMBER",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 1837
+                }
+            ]
+        },
+        {
+            "column_name": "fzv4-jan3.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 1262
+                },
+                {
+                    "semantic_type": "school_level",
+                    "count": 846
+                }
+            ]
+        },
+        {
+            "column_name": "gahm-hu5h.BRONX___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 207
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 226
+                }
+            ]
+        },
+        {
+            "column_name": "gahm-hu5h.COMPARABLE_RENTAL___2__Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 191
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 242
+                }
+            ]
+        },
+        {
+            "column_name": "gez6-674h.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 2528
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 905
+                }
+            ]
+        },
+        {
+            "column_name": "gpwd-npar.INCIDENT_ADDRESS",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 19915
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4316
+                }
+            ]
+        },
+        {
+            "column_name": "gpwd-npar.LOCATION",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 22659
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1572
+                }
+            ]
+        },
+        {
+            "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_1",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1569425
+                }
+            ]
+        },
+        {
+            "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1569425
+                }
+            ]
+        },
+        {
+            "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_3",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1569425
+                }
+            ]
+        },
+        {
+            "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_4",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1569425
+                }
+            ]
+        },
+        {
+            "column_name": "h9gi-nx95.VEHICLE_TYPE_CODE_5",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1569425
+                }
+            ]
+        },
+        {
+            "column_name": "hy4q-igkk.Cross_Street_2",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 817083
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 972276
+                }
+            ]
+        },
+        {
+            "column_name": "hy4q-igkk.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1789359
+                }
+            ]
+        },
+        {
+            "column_name": "hy4q-igkk.Street_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 891239
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 898120
+                }
+            ]
+        },
+        {
+            "column_name": "i6b5-j7bu.TOSTREETNAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 35167
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 29971
+                }
+            ]
+        },
+        {
+            "column_name": "i8ys-e4pm.CORE_COURSE_9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 16428
+                }
+            ]
+        },
+        {
+            "column_name": "ic3t-wcy2.Applicant_s_First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 1533880
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 164099
+                }
+            ]
+        },
+        {
+            "column_name": "ipu4-2q9a.Site_Safety_Mgr_s_First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 3590978
+                }
+            ]
+        },
+        {
+            "column_name": "ipu4-2q9a.Site_Safety_Mgr_s_Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 3590978
+                }
+            ]
+        },
+        {
+            "column_name": "itd7-gx3g.Location_1",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 181900
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 6989
+                }
+            ]
+        },
+        {
+            "column_name": "jhjm-vsp8.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1277
+                }
+            ]
+        },
+        {
+            "column_name": "ji82-xba5.address",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 21849
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 16292
+                }
+            ]
+        },
+        {
+            "column_name": "jt7v-77mi.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "color",
+                    "count": 3544680
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5555598
+                }
+            ]
+        },
+        {
+            "column_name": "jt7v-77mi.Vehicle_Make",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 7422598
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1677680
+                }
+            ]
+        },
+        {
+            "column_name": "jxyc-rxiv.COMPARABLE_RENTAL___2__Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 2505
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 140
+                }
+            ]
+        },
+        {
+            "column_name": "jxyc-rxiv.MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 2645
+                }
+            ]
+        },
+        {
+            "column_name": "jz4z-kudi.Respondent_Address__City_",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 5718969
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 6879722
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 5718969
+                }
+            ]
+        },
+        {
+            "column_name": "jz4z-kudi.Respondent_Address__Zip_Code_",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 12429371
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4214408
+                }
+            ]
+        },
+        {
+            "column_name": "jz4z-kudi.Violation_Location__City_",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 7797034
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 9419528
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 7797034
+                }
+            ]
+        },
+        {
+            "column_name": "jz4z-kudi.Violation_Location__Zip_Code_",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 15144120
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1499659
+                }
+            ]
+        },
+        {
+            "column_name": "k3cd-yu9d.BOROUGH_CITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 43850
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 49747
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 43850
+                }
+            ]
+        },
+        {
+            "column_name": "k3cd-yu9d.CANDMI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 68305
+                }
+            ]
+        },
+        {
+            "column_name": "k4xi-fxp5.Borough",
+            "semantic_types": [
+                {
+                    "semantic_type": "borough",
+                    "count": 350
+                },
+                {
+                    "semantic_type": "city",
+                    "count": 210
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 210
+                }
+            ]
+        },
+        {
+            "column_name": "kevu-8hby.STR_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 2049067
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1054543
+                }
+            ]
+        },
+        {
+            "column_name": "kiv2-tbus.Vehicle_Body_Type",
+            "semantic_types": [
+                {
+                    "semantic_type": "vehicle_type",
+                    "count": 9987686
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 639213
+                }
+            ]
+        },
+        {
+            "column_name": "kiv2-tbus.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "color",
+                    "count": 3565617
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 7061282
+                }
+            ]
+        },
+        {
+            "column_name": "kiv2-tbus.Vehicle_Make",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 8608601
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2018298
+                }
+            ]
+        },
+        {
+            "column_name": "kiyv-ks3f.Website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 1336
+                },
+                {
+                    "semantic_type": "school_name",
+                    "count": 669
+                }
+            ]
+        },
+        {
+            "column_name": "kj4p-ruqc.StreetName",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 198072
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 129747
+                }
+            ]
+        },
+        {
+            "column_name": "kwmq-dbub.CANDMI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 75431
+                }
+            ]
+        },
+        {
+            "column_name": "kyad-zm4j.Location",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 516989
+                }
+            ]
+        },
+        {
+            "column_name": "kz72-dump.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 117
+                }
+            ]
+        },
+        {
+            "column_name": "m3fi-rt3k.Agency_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 17496
+                }
+            ]
+        },
+        {
+            "column_name": "mdcw-n682.Agency_Acronym",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 4897
+                }
+            ]
+        },
+        {
+            "column_name": "mdcw-n682.First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 4470
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 427
+                }
+            ]
+        },
+        {
+            "column_name": "mdcw-n682.Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 3148
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1749
+                }
+            ]
+        },
+        {
+            "column_name": "mdcw-n682.Middle_Initial",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 4897
+                }
+            ]
+        },
+        {
+            "column_name": "mjux-q9d4.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1743
+                }
+            ]
+        },
+        {
+            "column_name": "mqdy-gu73.Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1890
+                }
+            ]
+        },
+        {
+            "column_name": "mrxb-9w9v.BOROUGH___COMMUNITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 70
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 112
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 70
+                }
+            ]
+        },
+        {
+            "column_name": "myei-c3fa.Neighborhood_3",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 10895
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 20453
+                }
+            ]
+        },
+        {
+            "column_name": "n84m-kx4j.VEHICLE_MAKE",
+            "semantic_types": [
+                {
+                    "semantic_type": "business_name",
+                    "count": 3615
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4009
+                }
+            ]
+        },
+        {
+            "column_name": "n8p9-7jxp.EMPCITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 108902
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 97418
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 108902
+                }
+            ]
+        },
+        {
+            "column_name": "n8p9-7jxp.ZIP",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 187664
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 10304
+                }
+            ]
+        },
+        {
+            "column_name": "nhms-9u6g.Name__Last__First_",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 6503
+                }
+            ]
+        },
+        {
+            "column_name": "nre2-6m2s.Business_City",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 2964
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 2203
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 2964
+                }
+            ]
+        },
+        {
+            "column_name": "p2d7-vcsb.ACCOUNT_PHONE",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 15894
+                }
+            ]
+        },
+        {
+            "column_name": "p2d7-vcsb.COMPLAINT_INQUIRY_STREET_ADDRESS",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 15894
+                }
+            ]
+        },
+        {
+            "column_name": "p937-wjvj.HOUSE_NUMBER",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1774041
+                }
+            ]
+        },
+        {
+            "column_name": "p937-wjvj.STREET_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 1390943
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 383098
+                }
+            ]
+        },
+        {
+            "column_name": "pchn-eaxn.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 1226
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2028
+                }
+            ]
+        },
+        {
+            "column_name": "pdpg-nn8i.SCHOOL_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 14340
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 15871
+                }
+            ]
+        },
+        {
+            "column_name": "pf3n-zn2m.StreetAddress",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 4879
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 3298
+                }
+            ]
+        },
+        {
+            "column_name": "pgtq-ht5f.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 15973
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 12751
+                }
+            ]
+        },
+        {
+            "column_name": "ph7v-u5f3.TOP_VEHICLE_MODELS___5",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 771
+                }
+            ]
+        },
+        {
+            "column_name": "pq5i-thsu.DVC_MAKE",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 157556
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 177618
+                }
+            ]
+        },
+        {
+            "column_name": "pqg4-dm6b.Address1",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 390
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 759
+                }
+            ]
+        },
+        {
+            "column_name": "ptev-4hud.Zip",
+            "semantic_types": [
+                {
+                    "semantic_type": "zip_code",
+                    "count": 343482
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5564
+                }
+            ]
+        },
+        {
+            "column_name": "pvqr-7yc4.Vehicle_Body_Type",
+            "semantic_types": [
+                {
+                    "semantic_type": "vehicle_type",
+                    "count": 2192649
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 159317
+                }
+            ]
+        },
+        {
+            "column_name": "pvqr-7yc4.Vehicle_Color",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 2351966
+                }
+            ]
+        },
+        {
+            "column_name": "pvqr-7yc4.Vehicle_Make",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 1909054
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 442912
+                }
+            ]
+        },
+        {
+            "column_name": "qbce-2kcu.COMPARABLE_RENTAL___2__Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 204
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 236
+                }
+            ]
+        },
+        {
+            "column_name": "qbjq-atxv.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 278
+                }
+            ]
+        },
+        {
+            "column_name": "qcdj-rwhu.BUSINESS_NAME2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1464
+                }
+            ]
+        },
+        {
+            "column_name": "qgea-i56i.PREM_TYP_DESC",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 2100852
+                },
+                {
+                    "semantic_type": "location_type",
+                    "count": 3510619
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 889399
+                }
+            ]
+        },
+        {
+            "column_name": "qjvp-rnsx.Website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 78
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "column_name": "qpm9-j523.org_neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 48
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 28
+                }
+            ]
+        },
+        {
+            "column_name": "qu8g-sxqf.First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 219866
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 21555
+                }
+            ]
+        },
+        {
+            "column_name": "qu8g-sxqf.MI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 241421
+                }
+            ]
+        },
+        {
+            "column_name": "rbx6-tga4.Applicant_Business_Address",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 12111
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 27695
+                }
+            ]
+        },
+        {
+            "column_name": "s3k6-pzi2.interest2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 440
+                }
+            ]
+        },
+        {
+            "column_name": "s3k6-pzi2.interest3",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 440
+                }
+            ]
+        },
+        {
+            "column_name": "s3k6-pzi2.neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "neighborhood",
+                    "count": 226
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 214
+                }
+            ]
+        },
+        {
+            "column_name": "s79c-jgrm.EMPCITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 14322
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 16898
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 14322
+                }
+            ]
+        },
+        {
+            "column_name": "sqcr-6mww.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1118286
+                }
+            ]
+        },
+        {
+            "column_name": "sqcr-6mww.Street_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 609319
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 508967
+                }
+            ]
+        },
+        {
+            "column_name": "sv2w-rv3k.BORO",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 2762668
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 4630167
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 2762668
+                }
+            ]
+        },
+        {
+            "column_name": "sxmw-f24h.Location",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 1672382
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 121392
+                }
+            ]
+        },
+        {
+            "column_name": "sxmw-f24h.Park_Facility_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1793774
+                }
+            ]
+        },
+        {
+            "column_name": "sxx4-xhzg.Park_Site_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 545
+                }
+            ]
+        },
+        {
+            "column_name": "sybh-s59s.CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 18042
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 13432
+                }
+            ]
+        },
+        {
+            "column_name": "sybh-s59s.SCHOOL_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 14978
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 16496
+                }
+            ]
+        },
+        {
+            "column_name": "t8hj-ruu2.Business_Phone_Number",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 65007
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 24216
+                }
+            ]
+        },
+        {
+            "column_name": "t8hj-ruu2.First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 76536
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 12687
+                }
+            ]
+        },
+        {
+            "column_name": "tg3t-nh4h.BusinessName",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 36051
+                }
+            ]
+        },
+        {
+            "column_name": "tmr6-dfvn.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 1228
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 2026
+                }
+            ]
+        },
+        {
+            "column_name": "tqtj-sjs8.FromStreetName",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 4951394
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4509605
+                }
+            ]
+        },
+        {
+            "column_name": "tu4y-7fre.Boro",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 33
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 59
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 33
+                }
+            ]
+        },
+        {
+            "column_name": "tvhc-4n5n.REGISTRY_ADDRESS",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 4203
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1129
+                }
+            ]
+        },
+        {
+            "column_name": "u35m-9t32.Address",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 812
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 1318
+                }
+            ]
+        },
+        {
+            "column_name": "ub9e-s7ai.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 7353
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 5029
+                }
+            ]
+        },
+        {
+            "column_name": "upwt-zvh3.SCHOOL",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 723
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 992
+                }
+            ]
+        },
+        {
+            "column_name": "upwt-zvh3.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1668
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 47
+                }
+            ]
+        },
+        {
+            "column_name": "uq7m-95z8.interest2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 427
+                }
+            ]
+        },
+        {
+            "column_name": "uq7m-95z8.interest3",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 427
+                }
+            ]
+        },
+        {
+            "column_name": "uq7m-95z8.interest4",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 427
+                }
+            ]
+        },
+        {
+            "column_name": "uq7m-95z8.interest5",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 427
+                }
+            ]
+        },
+        {
+            "column_name": "uq7m-95z8.website",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 153
+                },
+                {
+                    "semantic_type": "website",
+                    "count": 425
+                }
+            ]
+        },
+        {
+            "column_name": "urzf-q2g5.Phone_Number",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 959
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "column_name": "uwyv-629c.StreetName",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 1305424
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 523137
+                }
+            ]
+        },
+        {
+            "column_name": "uzcy-9puk.Park_Facility_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 1874697
+                }
+            ]
+        },
+        {
+            "column_name": "uzcy-9puk.Street_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "street_name",
+                    "count": 938489
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 936208
+                }
+            ]
+        },
+        {
+            "column_name": "vhah-kvpj.Borough",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 215
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 331
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 215
+                }
+            ]
+        },
+        {
+            "column_name": "vr8p-8shw.DVT_MAKE",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "count": 49621
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 27053
+                }
+            ]
+        },
+        {
+            "column_name": "vrn4-2abs.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1543
+                }
+            ]
+        },
+        {
+            "column_name": "vw9i-7mzq.interest2",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 435
+                }
+            ]
+        },
+        {
+            "column_name": "vw9i-7mzq.interest5",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 435
+                }
+            ]
+        },
+        {
+            "column_name": "vw9i-7mzq.interest6",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 435
+                }
+            ]
+        },
+        {
+            "column_name": "vw9i-7mzq.website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 433
+                },
+                {
+                    "semantic_type": "school_name",
+                    "count": 167
+                }
+            ]
+        },
+        {
+            "column_name": "vx8i-nprf.MI",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 518463
+                }
+            ]
+        },
+        {
+            "column_name": "w9ak-ipjd.Applicant_Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 28749
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 20638
+                }
+            ]
+        },
+        {
+            "column_name": "w9ak-ipjd.Filing_Representative_City",
+            "semantic_types": [
+                {
+                    "semantic_type": "city",
+                    "count": 31156
+                },
+                {
+                    "semantic_type": "borough",
+                    "count": 22332
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "count": 31156
+                }
+            ]
+        },
+        {
+            "column_name": "w9ak-ipjd.Filing_Representative_First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "count": 35670
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 13717
+                }
+            ]
+        },
+        {
+            "column_name": "w9ak-ipjd.Owner_s_Business_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 49387
+                }
+            ]
+        },
+        {
+            "column_name": "weg5-33pj.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 1262
+                },
+                {
+                    "semantic_type": "school_level",
+                    "count": 846
+                }
+            ]
+        },
+        {
+            "column_name": "wks3-66bn.School_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 598
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 960
+                }
+            ]
+        },
+        {
+            "column_name": "wvts-6tdf.Address",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 10583
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 4764
+                }
+            ]
+        },
+        {
+            "column_name": "x5tk-fa54.Agency_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 10452
+                }
+            ]
+        },
+        {
+            "column_name": "xck4-5xd5.phone",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "count": 1789
+                }
+            ]
+        },
+        {
+            "column_name": "xk6g-r83g.Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 243
+                }
+            ]
+        },
+        {
+            "column_name": "xne4-4v8f.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1743
+                }
+            ]
+        },
+        {
+            "column_name": "xx4a-msrm.Address_1",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "count": 1486
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 313
+                }
+            ]
+        },
+        {
+            "column_name": "y4fw-iqfr.Location_1",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "count": 6241
+                }
+            ]
+        },
+        {
+            "column_name": "yahh-6yjc.School_Type",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "count": 1722
+                }
+            ]
+        },
+        {
+            "column_name": "yayv-apxh.SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "count": 1352
+                },
+                {
+                    "semantic_type": "school_level",
+                    "count": 1138
+                }
+            ]
+        },
+        {
+            "column_name": "ydkf-mpxb.CrossStreetName",
+            "semantic_types": [
+                {
+                    "semantic_type": "other",
+                    "count": 7768263
+                }
+            ]
+        },
+        {
+            "column_name": "yggg-xf4b.Website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "count": 39
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 8
+                }
+            ]
+        },
+        {
+            "column_name": "ykx2-pdw8.QUEENS___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "count": 975
+                }
+            ]
+        },
+        {
+            "column_name": "ytjm-yias.CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "count": 272
+                },
+                {
+                    "semantic_type": "other",
+                    "count": 230
+                }
+            ]
+        }
+    ]
+}
